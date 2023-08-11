@@ -3,8 +3,8 @@
 ## Project Manager@ HP Inc.
 
 * Currently in Banglore
-* Working on Machng Learning and Data Science.
-* Part time cryto trader
+* Working on Machine Learning and Data Science.
+* Venturing into Intraday trading
 * Favorite weapon: Python
 * Tech stack: Python, SQL, NLP, Forecasting, Plotly
 
